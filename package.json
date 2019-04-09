@@ -13,7 +13,6 @@
     "react-scripts": "2.1.8",
     "redux": "^4.0.1",
     "redux-actions": "^2.6.5",
-    "redux-devtools-extension": "^2.13.8",
     "redux-persist": "^5.10.0",
     "redux-saga": "^1.0.2"
   },
@@ -31,5 +30,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.8"
+  }
 }
